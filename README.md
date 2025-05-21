@@ -2,6 +2,11 @@
 
 This is a **production-ready full stack authentication module** built using **React (TypeScript)** for the frontend and **NestJS** with **MongoDB** for the backend. It includes user registration, login, and access to a protected application route.
 
+and you can watch implementation on my local machine 
+via this video link of my Linkedin activity post
+
+https://www.linkedin.com/feed/update/urn:li:activity:7331057069946490880/?originTrackingId=ojfsK2Y5Qe2jRIw4rndUqg%3D%3D
+
 ---
 
 ## ✨ Features
