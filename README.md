@@ -79,8 +79,8 @@ fullstack-auth-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/easy-generator-auth-app.git
-cd easy-generator-auth
+git clone https://github.com/KhaledAhmedA/Easy-Generator-Auth.git
+cd Easy-Generator-Auth
 
 - You can genrate keys by this command from your Terminal
 openssl rand -base64 32 
