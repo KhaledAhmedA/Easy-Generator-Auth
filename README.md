@@ -77,6 +77,8 @@ fullstack-auth-app/
 git clone https://github.com/YOUR_USERNAME/easy-generator-auth-app.git
 cd easy-generator-auth
 
+- You can genrate keys by this command from your Terminal
+openssl rand -base64 32 
 
 - Setup Backend
 cd backend
@@ -100,8 +102,6 @@ Method	Endpoint	    Description
 POST	/auth/register	Register a new user
 POST	/auth/login	    Authenticate user
 GET	    /protected	    Protected route
-
-
 
 
 
