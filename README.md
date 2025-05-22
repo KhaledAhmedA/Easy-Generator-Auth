@@ -134,7 +134,7 @@ This app was built as part of an internal Full Stack Developer assessment.
 Feel free to reach out for questions or improvements.
 
 👨‍💻 Author
-Your Name
+Khaled Ahmed AlKharashy
 GitHub: https://github.com/KhaledAhmedA
 Email: khaled.ahmed.alkharashi@gmail.com
 Website: https://khaled-iota.vercel.app/
