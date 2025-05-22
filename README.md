@@ -5,7 +5,7 @@ This is a **production-ready full stack authentication module** built using **Re
 and you can watch implementation on my local machine 
 via this video link of my Linkedin activity post
 
-https://www.linkedin.com/feed/update/urn:li:activity:7331057069946490880/?originTrackingId=ojfsK2Y5Qe2jRIw4rndUqg%3D%3D
+https://www.linkedin.com/posts/khaled-al-kharashi-10653b247_nestjs-reactnextjs-and-mongodb-authentication-activity-7331228025444814850-Bvf9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD0gKdYBeFdLZ0qrbSMeSXIlnJga5nN5iHA
 
 ---
 
